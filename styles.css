@@ -170,6 +170,9 @@ img {height: 200px;
     iframe,video {
       max-width: 90%;
     }
+    .greeting{
+      text-aling: center;
+    }
    
   }
 
